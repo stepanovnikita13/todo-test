@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/stepanovnikita13/todo-test">
     <img src="public/todo.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Todolist App</h3>
@@ -11,7 +11,7 @@
     Демонстрация тестового приложения
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template" target="_blank" >Открыть демо</a>
+    <a href="https://stepanovnikita13.github.io/todo-test" target="_blank" >Открыть демо</a>
   </p>
 </div>
 
